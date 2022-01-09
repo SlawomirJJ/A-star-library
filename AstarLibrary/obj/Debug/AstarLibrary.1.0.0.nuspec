@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AstarLibrary</id>
+    <version>1.0.0</version>
+    <authors>Sławomir Jedziniak</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PC\Desktop\Astar2\net5.0\AstarLibrary.dll" target="lib\net5.0\AstarLibrary.dll" />
+  </files>
+</package>

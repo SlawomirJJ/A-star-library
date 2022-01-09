@@ -1,0 +1,74 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Sławomir Jedziniak\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "2.0.4",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sławomir Jedziniak\\Desktop\\AstarLibrary\\AstarLibrary.csproj",
+      "projectName": "AstarLibrary",
+      "projectPath": "C:\\Users\\Sławomir Jedziniak\\Desktop\\AstarLibrary\\AstarLibrary.csproj",
+      "packagesPath": "C:\\Users\\Sławomir Jedziniak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sławomir Jedziniak\\Desktop\\AstarLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Sławomir Jedziniak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Dokumenty\\studia\\PracaDyplomowa\\A_Star_Library\\AstarLibrary\\LocalNuget": {},
+        "https://www.myget.org/F/aspnetvnext/api/v2/": {},
+        "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
